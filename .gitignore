@@ -1,0 +1,15 @@
+*.zip
+charges-file
+charges-only-file
+charges-out
+m00_charges-file
+m00_charges-only-file
+m01_01_basic.py
+m01_02_basic.py
+m01_lab.py
+m02_01_charges_multiple_hardcoded.py
+m02_02_charges_list.py
+m02_03_charges_list_for_loop.py
+m02_04_charges_for_loop_from_file.py
+m02_lab_people
+m02_lab.py

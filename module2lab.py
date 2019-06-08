@@ -8,6 +8,7 @@ print("---- People -------------------------------------------")
 
 personnum = 1
 #instructor solution: with open('m02_lab_people') as people:
+#for person in people:
 
 for person in open('m02_lab_people'):
     print(personnum, "  name:", person.strip())
